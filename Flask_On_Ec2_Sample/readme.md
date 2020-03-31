@@ -1,4 +1,4 @@
-# Simple spacy implementation on Aws with spark
+# Simple spacy implementation on Aws with Flask
 
 
 ## index Page:
