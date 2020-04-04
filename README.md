@@ -4,4 +4,4 @@
 simple spaCy N.E.R and summarizer implementation on AWS using Flask
 
 ## kaggle tweet sentiment competition :
-ToDo
+Sentiment analysis and sentiment Extraction 
