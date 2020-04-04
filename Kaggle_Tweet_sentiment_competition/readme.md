@@ -1,11 +1,13 @@
 # 
 https://www.kaggle.com/c/tweet-sentiment-extraction/
 
-## A.simple sentiment analysis:
+## A.Simple sentiment analysis:
 using NLTK, Text Blob, Flair 
 
 naive bayes, logistic regression, Linear SVM
 
 Keras, Fastai
 
-## B.sentiment analysis Pytorch
+## B.Sentiment analysis Tensorflow on Gpu
+
+## C.Competition submission
