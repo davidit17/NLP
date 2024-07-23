@@ -6,14 +6,16 @@ speech to text
   - sample2 - https://www.youtube.com/watch?v=IcDdApNVpY8
   - sample3 - https://www.youtube.com/watch?v=oy7GyWBzfKg
   - sample4 - https://www.youtube.com/watch?v=_ZpcYhVvqjI
-  - sample6-https://www.youtube.com/watch?v=IKplF2eAjHk
-  - sample7-https://www.youtube.com/watch?v=L-QwmiqC3i8
+  - sample6 - https://www.youtube.com/watch?v=IKplF2eAjHk
+  - sample7 - https://www.youtube.com/watch?v=L-QwmiqC3i8
 
 
-# B. summarize
+# B. dicta2instV1.ipynb 
+
+sentiment and summary
 
 
-# C. get sentiment
+# C. prompt eng
 
 
 # D. Q&A
