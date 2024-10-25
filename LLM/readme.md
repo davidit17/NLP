@@ -20,11 +20,13 @@ speech to text
 
 # B. dicta2instV1.ipynb 
 
-sentiment and summary
+get data from the texts:
+- sentiment
+- summary
+- company
+- 
 
 
-# C. prompt eng
 
-
-# D. Q&A
+# C. RAG Q&A
 
